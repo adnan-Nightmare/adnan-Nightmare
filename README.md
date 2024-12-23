@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan-nightmare&show_icons=true&locale=en&layout=compact" alt="adnan-nightmare" /></p>
 
-<h4 align="left">Sosial🌐/h4>
+<h4 align="left">Sosial🌐</h4>
   <p align="left">
     <a href="https://instagram.com/https://instagram.com/adnn.ngr"><img src="(https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
     <a href="https://linkedin.com/in/https://linkedin.com/in/muhammad%20adnan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
