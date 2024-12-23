@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to My Profile Bro!👋</h1>
 <h3 align="center">Fullstack Developer | Game Dev</h3>
 
-// image
 
 <h4 align="left">highlight💾</h4>
 <ul align="left">
