@@ -5,7 +5,7 @@
 <h4 align="left">highlight💾</h4>
 <ul align="left">
   <li>My name is Adnan</li>
-  <li>My portofolio avalible at: <a href="https://adnan-nightmare.github.io/ANsiteTailwind/" style="font-weight: 600">My Portofolio</a> </li>
+  <li>My portofolio avalible at: <a href="https://adnan-nightmare.github.io/ANsiteTailwind/" style="text-decoration: none; color: black; font-weight: 600;">My Portofolio</a> </li>
 </ul>
 
 <h4 align="left">About Me📃</h4>
