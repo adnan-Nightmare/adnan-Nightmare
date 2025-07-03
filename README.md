@@ -17,10 +17,10 @@
 </p>
 
 
-{!-- <h4 align="left">Stats⚡</h4>
+<h4 align="left">Stats⚡</h4>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adnan-nightmare&show_icons=true&locale=en" alt="adnan-nightmare" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan-nightmare&show_icons=true&locale=en&layout=compact" alt="adnan-nightmare" /></p> !--}
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan-nightmare&show_icons=true&locale=en&layout=compact" alt="adnan-nightmare" /></p>
 
 <h4 align="left">Sosial🌐</h4>
   <p align="left">
